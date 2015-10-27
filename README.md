@@ -1,7 +1,13 @@
 MODEL RELEASE FOR PHOTOGRAPHY
 =============================
 
-Model Release written for FREESOULS captured and released by JOI ITO.
+## About
+
+The purpose of the Model Release for Photography is to help photographers get permission and approval for their photos of other people.
+
+When signed by a model participating in a photography shoot, this [model release form](https://github.com/freesouls-cc/modelrelease/blob/master/MODEL-RELEASE.md) gives the photographer the right use the images of that person for any purpose (except advertising or anything defamatory), and the right to associate that person's name and identity with the images.
+
+The form is available at [github.com/freesouls-cc/modelrelease](https://github.com/freesouls-cc/modelrelease).
 
 ## Terms and Conditions
 
